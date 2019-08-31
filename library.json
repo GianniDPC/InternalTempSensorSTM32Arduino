@@ -1,0 +1,8 @@
+{
+    "name": "InternalTempSensor",
+    "keywords": "InternalTempSensor",
+    "description": "InternalTempSensor Library",
+    "version": "1.0",
+    "frameworks": "arduino",
+    "platforms": stm32
+}

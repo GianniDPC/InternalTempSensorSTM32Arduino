@@ -1,2 +1,2 @@
 # InternalTempSensorSTM32Arduino
-InternalTempSensor STM32F0 Arduino
+Works only on STM32F0 for now..
